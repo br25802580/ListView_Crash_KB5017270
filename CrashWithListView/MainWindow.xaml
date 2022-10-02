@@ -11,8 +11,7 @@
         <ListView Grid.Row="2" x:Name="MyList"
                   HorizontalAlignment="Left"
                   Width="200"
-                  MaxHeight="110"
-                  ItemsSource="{Binding Elements}">
+                  MaxHeight="60">
         </ListView>
     </StackPanel>
 </Window>

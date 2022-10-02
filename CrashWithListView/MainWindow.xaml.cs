@@ -28,14 +28,11 @@ namespace CrashWithListView
             MyList.Items.Add("222");
             MyList.Items.Add("333");
             MyList.Items.Add("444");
-            MyList.Items.Add("555");
-            MyList.Items.Add("666");
-            MyList.Items.Add("777");
         }
 
         private void AddItemBtn_Click(object sender, RoutedEventArgs e)
         {
-            MyList.Items.Add("888");
+            MyList.Items.Add("555");
         }
     }
 }
